@@ -4,4 +4,4 @@ chronojournal is a spring Application. It allows users to write and maintain dig
 
 (chrono=time + journal=diary)
 
-🚧 UnderConstruction 🚧
+# 🚧 UnderConstruction 🚧
